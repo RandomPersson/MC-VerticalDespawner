@@ -1,0 +1,15 @@
+name: VerticalDespawner
+version: 1.1
+description: Decreases the number of mobs too far from player vertically
+api-version: 1.15
+load: STARTUP
+author: RandomPersson
+authors: []
+website: https://discord.gg/RmDbKqq
+
+main: pl.org.mensa.rp.mc.VerticalDespawner.VerticalDespawnerPlugin
+database: false
+depend: []
+prefix: 
+softdepend: []
+loadbefore: []
